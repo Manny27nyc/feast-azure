@@ -1,5 +1,5 @@
 feast==0.9.5.2
-cryptography==3.1
+cryptography==3.3.2
 flake8
 black==19.10b0
 isort>=5
@@ -20,6 +20,6 @@ pytest-lazy-fixture==0.6.3
 pytest-timeout==1.4.2
 pytest-ordering==0.6.*
 pytest-mock==1.10.4
-PyYAML==5.3.1
+PyYAML==5.4
 great-expectations==0.13.2
 adlfs==0.5.9
