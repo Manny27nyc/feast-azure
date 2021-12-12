@@ -36,7 +36,7 @@
         <dependency>
             <groupId>dev.feast</groupId>
             <artifactId>datatypes-java</artifactId>
-            <version>0.9.2</version>
+            <version>0.26.3</version>
         </dependency>
 
         <dependency>
@@ -273,7 +273,7 @@
                             <version>1.7</version>
                             <style>GOOGLE</style>
                         </googleJavaFormat>
-                        <removeUnusedImports />
+                        <removeUnusedImports/>
                     </java>
                     <scala>
                         <licenseHeader>
