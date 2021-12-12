@@ -114,7 +114,7 @@
         <dependency>
             <groupId>com.google.cloud.bigtable</groupId>
             <artifactId>bigtable-hbase-2.x-hadoop</artifactId>
-            <version>1.19.0</version>
+            <version>1.25.1</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.apache.hadoop</groupId>
@@ -273,7 +273,7 @@
                             <version>1.7</version>
                             <style>GOOGLE</style>
                         </googleJavaFormat>
-                        <removeUnusedImports />
+                        <removeUnusedImports/>
                     </java>
                     <scala>
                         <licenseHeader>
