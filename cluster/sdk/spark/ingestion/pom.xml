@@ -205,7 +205,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.5</version>
+            <version>20030203.000550</version>
         </dependency>
 
         <dependency>
@@ -273,7 +273,7 @@
                             <version>1.7</version>
                             <style>GOOGLE</style>
                         </googleJavaFormat>
-                        <removeUnusedImports />
+                        <removeUnusedImports/>
                     </java>
                     <scala>
                         <licenseHeader>
