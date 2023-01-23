@@ -67,7 +67,7 @@
         <dependency>
             <groupId>com.gojek</groupId>
             <artifactId>stencil</artifactId>
-            <version>4.2.0</version>
+            <version>4.2.1</version>
         </dependency>
 
         <dependency>
@@ -273,7 +273,7 @@
                             <version>1.7</version>
                             <style>GOOGLE</style>
                         </googleJavaFormat>
-                        <removeUnusedImports />
+                        <removeUnusedImports/>
                     </java>
                     <scala>
                         <licenseHeader>
