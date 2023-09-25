@@ -20,6 +20,10 @@ pytest-lazy-fixture==0.6.3
 pytest-timeout==1.4.2
 pytest-ordering==0.6.*
 pytest-mock==1.10.4
-PyYAML==5.3.1
+PyYAML==5.4
 great-expectations==0.13.2
 adlfs==0.5.9
+grpcio>=1.53.2 # not directly required, pinned by Snyk to avoid a vulnerability
+ipython>=8.10.0 # not directly required, pinned by Snyk to avoid a vulnerability
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
